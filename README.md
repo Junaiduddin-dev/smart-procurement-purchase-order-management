@@ -759,7 +759,7 @@ Spring Boot JPA/Hibernate is configured to manage/update the database schema.
 
 ### Repository
 
-https://github.com/sahigrace/smart-procurement-purchase-order-management
+https://github.com/Junaiduddin-dev/smart-procurement-purchase-order-management
 
 The repository contains:
 
